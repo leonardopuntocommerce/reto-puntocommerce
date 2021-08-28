@@ -1,6 +1,6 @@
 "# reto-puntocommerce" 
 
-Host: 
+Host: https://reto-puntocommerce.herokuapp.com
 
 Step 1: 
 
@@ -16,6 +16,6 @@ method: GET
 
 Step 3: 
 
-Enpoint: /api/user/search/"valor_buscado"
+Enpoint: /api/user/search/"valor_buscado_email"
 
 method: GET
